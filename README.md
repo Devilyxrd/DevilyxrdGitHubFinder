@@ -2,7 +2,7 @@
 
 GitHub topluluğundaki kullanıcıları kolayca arayabileceğiniz ve profil detaylarını modern bir arayüzde görüntüleyebileceğiniz bir React uygulaması.
 
-!(https://i.pinimg.com/originals/18/e5/75/18e575b721685b020585ebc11b6b4ec4.gif)
+<img src="https://i.pinimg.com/originals/18/e5/75/18e575b721685b020585ebc11b6b4ec4.gif">
 
 ---
 
